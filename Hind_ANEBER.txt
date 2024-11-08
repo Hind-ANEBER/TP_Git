@@ -1,3 +1,7 @@
-Adresse: lille 
-Code postale: 59010
+Adresse1: lille 
+Code postale1: 59010
+
+Adresse2: gaston berger 
+Code postale2: 59000
+
 Date de naissance: 
